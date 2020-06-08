@@ -1,4 +1,4 @@
 # UniFlex
-A simulation engine for Roper, Soft-Bodies, Cloth, Semi Rigid Bodies and more for C4D.
+A simulation engine for Roper, Soft-Bodies, Cloth, Semi Rigid Bodies and more for maxon Cinema 4D.
 
-#### Not Open Source.
+#### The plugin it self is Not Open Source.

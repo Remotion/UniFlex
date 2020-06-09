@@ -11,4 +11,7 @@ __Flex Solver:__ new GPU bases solver. Current builds requires GPU with DirectX 
 
 [Basic UniFlex scene setup with GPU solver.](https://vimeo.com/427139091)
 
+[Automatic constraint creation example.](https://vimeo.com/427399496)
+
+
 __Classic Solver:__ my own mostly position bases solver that I have developed years ago. In 2020 it got some updated to make it use CPU cores a bit more efficient, but there is still room for improvements.   
